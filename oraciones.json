@@ -1,3 +1,4 @@
+
 [
   {
     "texto": "El sol brilla con fuerza hoy.",
@@ -21,5 +22,58 @@
       {"texto":"italiana","morfologia":"Adjetivo calificativo","sintaxis":"Adyacente del CD","concordancia":"Femenino singular","ortografia":"Llana terminada en vocal, sin tilde","funcion":"Califica"},
       {"texto":".","morfologia":"Punto","sintaxis":"Fin de oración","concordancia":"—","ortografia":"—","funcion":"Cierra"}
     ]
-  }
-]
+  },
+  {
+    "texto": "Los niños juegan en el parque.",
+    "palabras": [
+      {"texto":"Los","morfologia":"Artículo determinado","sintaxis":"Actualizador del sujeto","concordancia":"Masculino plural","ortografia":"Monosílabo, sin tilde","funcion":"Determina"},
+      {"texto":"niños","morfologia":"Sustantivo común","sintaxis":"Núcleo del sujeto","concordancia":"Masculino plural","ortografia":"Llana terminada en -s, sin tilde","funcion":"Sujetos"},
+      {"texto":"juegan","morfologia":"Verbo (jugar)","sintaxis":"Núcleo del predicado","concordancia":"3ª persona plural, presente","ortografia":"Llana terminada en -n, sin tilde","funcion":"Acción"},
+      {"texto":"en","morfologia":"Preposición","sintaxis":"Enlace del CCL","concordancia":"Invariable","ortografia":"Monosílabo, sin tilde","funcion":"Introduce lugar"},
+      {"texto":"el","morfologia":"Artículo determinado","sintaxis":"Actualizador del CCL","concordancia":"Masculino singular","ortografia":"Monosílabo, sin tilde","funcion":"Determina"},
+      {"texto":"parque","morfologia":"Sustantivo común","sintaxis":"Núcleo del CCL","concordancia":"Masculino singular","ortografia":"Llana terminada en vocal, sin tilde","funcion":"Lugar"},
+      {"texto":".","morfologia":"Punto","sintaxis":"Fin de oración","concordancia":"—","ortografia":"—","funcion":"Cierra"}
+    ]
+  },
+  {
+    "texto": "María compró flores para su madre.",
+    "palabras": [
+      {"texto":"María","morfologia":"Sustantivo propio","sintaxis":"Núcleo del sujeto","concordancia":"Femenino singular","ortografia":"Llana terminada en vocal, lleva tilde","funcion":"Nombre propio"},
+      {"texto":"compró","morfologia":"Verbo (comprar)","sintaxis":"Núcleo del predicado","concordancia":"3ª persona singular, pretérito","ortografia":"Aguda terminada en vocal, lleva tilde","funcion":"Acción pasada"},
+      {"texto":"flores","morfologia":"Sustantivo común","sintaxis":"Núcleo del CD","concordancia":"Femenino plural","ortografia":"Llana terminada en -s, sin tilde","funcion":"CD"},
+      {"texto":"para","morfologia":"Preposición","sintaxis":"Enlace del CI","concordancia":"Invariable","ortografia":"Llana terminada en vocal, sin tilde","funcion":"Introduce beneficiario"},
+      {"texto":"su","morfologia":"Determinante posesivo","sintaxis":"Actualizador del CI","concordancia":"3ª persona","ortografia":"Monosílabo, sin tilde","funcion":"Posesión"},
+      {"texto":"madre","morfologia":"Sustantivo común","sintaxis":"Núcleo del CI","concordancia":"Femenino singular","ortografia":"Llana terminada en vocal, sin tilde","funcion":"CI"},
+      {"texto":".","morfologia":"Punto","sintaxis":"Fin de oración","concordancia":"—","ortografia":"—","funcion":"Cierra"}
+    ]
+  },
+  {
+    "texto": "El perro ladra mucho en la calle.",
+    "palabras": [
+      {"texto":"El","morfologia":"Artículo determinado","sintaxis":"Actualizador del sujeto","concordancia":"Masculino singular","ortografia":"Monosílabo, sin tilde","funcion":"Determina"},
+      {"texto":"perro","morfologia":"Sustantivo común","sintaxis":"Núcleo del sujeto","concordancia":"Masculino singular","ortografia":"Llana terminada en vocal, sin tilde","funcion":"Sujeto"},
+      {"texto":"ladra","morfologia":"Verbo (ladrar)","sintaxis":"Núcleo del predicado","concordancia":"3ª persona singular, presente","ortografia":"Llana terminada en vocal, sin tilde","funcion":"Acción"},
+      {"texto":"mucho","morfologia":"Adverbio de cantidad","sintaxis":"CC de cantidad","concordancia":"Invariable","ortografia":"Llana terminada en vocal, sin tilde","funcion":"Cantidad"},
+      {"texto":"en","morfologia":"Preposición","sintaxis":"Enlace del CCL","concordancia":"Invariable","ortografia":"Monosílabo, sin tilde","funcion":"Introduce lugar"},
+      {"texto":"la","morfologia":"Artículo determinado","sintaxis":"Actualizador del CCL","concordancia":"Femenino singular","ortografia":"Monosílabo, sin tilde","funcion":"Determina"},
+      {"texto":"calle","morfologia":"Sustantivo común","sintaxis":"Núcleo del CCL","concordancia":"Femenino singular","ortografia":"Llana terminada en vocal, sin tilde","funcion":"Lugar"},
+      {"texto":".","morfologia":"Punto","sintaxis":"Fin de oración","concordancia":"—","ortografia":"—","funcion":"Cierra"}
+    ]
+  },
+  {
+    "texto": "Ayer estudié mucho para el examen.",
+    "palabras": [
+      {"texto":"Ayer","morfologia":"Adverbio de tiempo","sintaxis":"CC de tiempo","concordancia":"Invariable","ortografia":"Aguda terminada en -r, sin tilde","funcion":"Tiempo"},
+      {"texto":"estudié","morfologia":"Verbo (estudiar)","sintaxis":"Núcleo del predicado","concordancia":"1ª persona singular, pretérito","ortografia":"Aguda terminada en vocal, lleva tilde","funcion":"Acción pasada"},
+      {"texto":"mucho","morfologia":"Adverbio de cantidad","sintaxis":"CC de cantidad","concordancia":"Invariable","ortografia":"Llana terminada en vocal, sin tilde","funcion":"Cantidad"},
+      {"texto":"para","morfologia":"Preposición","sintaxis":"Enlace del CC finalidad","concordancia":"Invariable","ortografia":"Llana terminada en vocal, sin tilde","funcion":"Finalidad"},
+      {"texto":"el","morfologia":"Artículo determinado","sintaxis":"Actualizador del CC finalidad","concordancia":"Masculino singular","ortografia":"Monosílabo, sin tilde","funcion":"Determina"},
+      {"texto":"examen","morfologia":"Sustantivo común","sintaxis":"Núcleo del CC finalidad","concordancia":"Masculino singular","ortografia":"Llana terminada en -n, sin tilde","funcion":"Objeto"},
+      {"texto":".","morfologia":"Punto","sintaxis":"Fin de oración","concordancia":"—","ortografia":"—","funcion":"Cierra"}
+    ]
+  },
+  {
+    "texto": "La música relaja la mente.",
+    "palabras": [
+      {"texto":"La","morfologia":"Artículo determinado","sintaxis":"Actualizador del sujeto","concordancia":"Femenino singular","ortografia":"Monosílabo, sin tilde","funcion":"Determina"},
+      {"texto":"música","morfologia":"Sustantivo común","sintaxis":"Núcleo del sujeto","concordancia":"Femenino singular","ortografia":"Esdrújula, SIEMPRE lleva tilde","funcion":"Sujeto"},
