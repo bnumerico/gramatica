@@ -1,0 +1,25 @@
+[
+  {
+    "texto": "El sol brilla con fuerza hoy.",
+    "palabras": [
+      {"texto":"El","morfologia":"Artículo determinado","sintaxis":"Actualizador del sujeto","concordancia":"Masculino singular","ortografia":"Monosílabo, sin tilde","funcion":"Determina a 'sol'"},
+      {"texto":"sol","morfologia":"Sustantivo común","sintaxis":"Núcleo del sujeto","concordancia":"Masculino singular","ortografia":"Monosílabo con diptongo, sin tilde","funcion":"Sujeto"},
+      {"texto":"brilla","morfologia":"Verbo (brillar)","sintaxis":"Núcleo del predicado","concordancia":"3ª persona singular, presente","ortografia":"Llana terminada en vocal, sin tilde","funcion":"Acción principal"},
+      {"texto":"con","morfologia":"Preposición","sintaxis":"Enlace del CCM","concordancia":"Invariable","ortografia":"Monosílabo, sin tilde","funcion":"Introduce modo"},
+      {"texto":"fuerza","morfologia":"Sustantivo común","sintaxis":"Núcleo del CCM","concordancia":"Femenino singular","ortografia":"Llana terminada en vocal, sin tilde","funcion":"Modo"},
+      {"texto":"hoy","morfologia":"Adverbio de tiempo","sintaxis":"CC de tiempo","concordancia":"Invariable","ortografia":"Monosílabo con diptongo, sin tilde","funcion":"Tiempo"},
+      {"texto":".","morfologia":"Punto","sintaxis":"Fin de oración","concordancia":"—","ortografia":"—","funcion":"Cierra la oración"}
+    ]
+  },
+  {
+    "texto": "Mi madre cocina pasta italiana.",
+    "palabras": [
+      {"texto":"Mi","morfologia":"Determinante posesivo","sintaxis":"Actualizador del sujeto","concordancia":"1ª persona singular","ortografia":"Monosílabo, sin tilde","funcion":"Posesión"},
+      {"texto":"madre","morfologia":"Sustantivo común","sintaxis":"Núcleo del sujeto","concordancia":"Femenino singular","ortografia":"Llana terminada en vocal, sin tilde","funcion":"Sujeto"},
+      {"texto":"cocina","morfologia":"Verbo (cocinar)","sintaxis":"Núcleo del predicado","concordancia":"3ª persona singular, presente","ortografia":"Llana terminada en vocal, sin tilde","funcion":"Acción"},
+      {"texto":"pasta","morfologia":"Sustantivo común","sintaxis":"Núcleo del CD","concordancia":"Femenino singular","ortografia":"Llana terminada en vocal, sin tilde","funcion":"CD"},
+      {"texto":"italiana","morfologia":"Adjetivo calificativo","sintaxis":"Adyacente del CD","concordancia":"Femenino singular","ortografia":"Llana terminada en vocal, sin tilde","funcion":"Califica"},
+      {"texto":".","morfologia":"Punto","sintaxis":"Fin de oración","concordancia":"—","ortografia":"—","funcion":"Cierra"}
+    ]
+  }
+]
