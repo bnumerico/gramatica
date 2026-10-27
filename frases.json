@@ -1,0 +1,207 @@
+[
+  {
+    "bloques": [
+      {"texto":"María","funcion":"sujeto"},
+      {"texto":"come","funcion":"verbo"},
+      {"texto":"manzanas","funcion":"cd"},
+      {"texto":"en el jardín","funcion":"ccl"}
+    ],
+    "preguntas":[
+      {"pregunta":"¿Cuál es el SUJETO?","funcionObjetivo":"sujeto","pista":"¿Quién realiza la acción de comer?"},
+      {"pregunta":"¿Cuál es el VERBO?","funcionObjetivo":"verbo","pista":"Es la acción principal"},
+      {"pregunta":"¿Cuál es el CD?","funcionObjetivo":"cd","pista":"¿Qué come? Se puede cambiar por 'las'"},
+      {"pregunta":"¿Cuál es el CCL?","funcionObjetivo":"ccl","pista":"Indica DÓNDE come"}
+    ]
+  },
+  {
+    "bloques": [
+      {"texto":"El perro de Juan","funcion":"sujeto"},
+      {"texto":"ladra","funcion":"verbo"},
+      {"texto":"mucho","funcion":"cccantidad"}
+    ],
+    "preguntas":[
+      {"pregunta":"¿Cuál es el SUJETO completo?","funcionObjetivo":"sujeto","pista":"¿Quién ladra? Incluye todo"},
+      {"pregunta":"¿Cuál es el VERBO?","funcionObjetivo":"verbo","pista":"La acción"},
+      {"pregunta":"¿Qué función cumple 'mucho'?","funcionObjetivo":"cccantidad","pista":"Indica cantidad"}
+    ]
+  },
+  {
+    "bloques": [
+      {"texto":"Los niños","funcion":"sujeto"},
+      {"texto":"regalaron","funcion":"verbo"},
+      {"texto":"flores","funcion":"cd"},
+      {"texto":"a su madre","funcion":"ci"}
+    ],
+    "preguntas":[
+      {"pregunta":"¿Cuál es el SUJETO?","funcionObjetivo":"sujeto","pista":"¿Quiénes regalaron?"},
+      {"pregunta":"¿Cuál es el VERBO?","funcionObjetivo":"verbo","pista":"La acción"},
+      {"pregunta":"¿Cuál es el CD?","funcionObjetivo":"cd","pista":"¿Qué regalaron?"},
+      {"pregunta":"¿Cuál es el CI?","funcionObjetivo":"ci","pista":"¿A quién regalaron?"}
+    ]
+  },
+  {
+    "bloques": [
+      {"texto":"Ayer","funcion":"cct"},
+      {"texto":"llegué","funcion":"verbo"},
+      {"texto":"tarde","funcion":"ccm"},
+      {"texto":"a casa","funcion":"ccl"}
+    ],
+    "preguntas":[
+      {"pregunta":"¿Cuál es el CCT?","funcionObjetivo":"cct","pista":"Indica CUÁNDO"},
+      {"pregunta":"¿Cuál es el VERBO?","funcionObjetivo":"verbo","pista":"La acción"},
+      {"pregunta":"¿Cuál es el CCM?","funcionObjetivo":"ccm","pista":"Indica CÓMO"},
+      {"pregunta":"¿Cuál es el CCL?","funcionObjetivo":"ccl","pista":"Indica DÓNDE"}
+    ]
+  },
+  {
+    "bloques": [
+      {"texto":"Mi hermano mayor","funcion":"sujeto"},
+      {"texto":"estudia","funcion":"verbo"},
+      {"texto":"medicina","funcion":"cd"},
+      {"texto":"en la universidad","funcion":"ccl"}
+    ],
+    "preguntas":[
+      {"pregunta":"¿Cuál es el SUJETO?","funcionObjetivo":"sujeto","pista":"¿Quién estudia?"},
+      {"pregunta":"¿Cuál es el VERBO?","funcionObjetivo":"verbo","pista":"La acción"},
+      {"pregunta":"¿Cuál es el CD?","funcionObjetivo":"cd","pista":"¿Qué estudia?"},
+      {"pregunta":"¿Cuál es el CCL?","funcionObjetivo":"ccl","pista":"¿Dónde estudia?"}
+    ]
+  },
+  {
+    "bloques": [
+      {"texto":"El profesor","funcion":"sujeto"},
+      {"texto":"explicó","funcion":"verbo"},
+      {"texto":"la lección","funcion":"cd"},
+      {"texto":"a los alumnos","funcion":"ci"}
+    ],
+    "preguntas":[
+      {"pregunta":"¿Cuál es el SUJETO?","funcionObjetivo":"sujeto","pista":"¿Quién explicó?"},
+      {"pregunta":"¿Cuál es el VERBO?","funcionObjetivo":"verbo","pista":"La acción"},
+      {"pregunta":"¿Cuál es el CD?","funcionObjetivo":"cd","pista":"¿Qué explicó?"},
+      {"pregunta":"¿Cuál es el CI?","funcionObjetivo":"ci","pista":"¿A quién explicó?"}
+    ]
+  },
+  {
+    "bloques": [
+      {"texto":"Ana y Pedro","funcion":"sujeto"},
+      {"texto":"compraron","funcion":"verbo"},
+      {"texto":"un regalo","funcion":"cd"},
+      {"texto":"para su abuela","funcion":"ci"}
+    ],
+    "preguntas":[
+      {"pregunta":"¿Cuál es el SUJETO?","funcionObjetivo":"sujeto","pista":"¿Quiénes compraron?"},
+      {"pregunta":"¿Cuál es el VERBO?","funcionObjetivo":"verbo","pista":"La acción"},
+      {"pregunta":"¿Cuál es el CD?","funcionObjetivo":"cd","pista":"¿Qué compraron?"},
+      {"pregunta":"¿Cuál es el CI?","funcionObjetivo":"ci","pista":"¿Para quién?"}
+    ]
+  },
+  {
+    "bloques": [
+      {"texto":"La música clásica","funcion":"sujeto"},
+      {"texto":"relaja","funcion":"verbo"},
+      {"texto":"la mente","funcion":"cd"}
+    ],
+    "preguntas":[
+      {"pregunta":"¿Cuál es el SUJETO?","funcionObjetivo":"sujeto","pista":"¿Qué relaja?"},
+      {"pregunta":"¿Cuál es el VERBO?","funcionObjetivo":"verbo","pista":"La acción"},
+      {"pregunta":"¿Cuál es el CD?","funcionObjetivo":"cd","pista":"¿Qué relaja?"}
+    ]
+  },
+  {
+    "bloques": [
+      {"texto":"Los niños pequeños","funcion":"sujeto"},
+      {"texto":"juegan","funcion":"verbo"},
+      {"texto":"alegremente","funcion":"ccm"},
+      {"texto":"en el parque","funcion":"ccl"}
+    ],
+    "preguntas":[
+      {"pregunta":"¿Cuál es el SUJETO?","funcionObjetivo":"sujeto","pista":"¿Quiénes juegan?"},
+      {"pregunta":"¿Cuál es el VERBO?","funcionObjetivo":"verbo","pista":"La acción"},
+      {"pregunta":"¿Cuál es el CCM?","funcionObjetivo":"ccm","pista":"Indica CÓMO"},
+      {"pregunta":"¿Cuál es el CCL?","funcionObjetivo":"ccl","pista":"Indica DÓNDE"}
+    ]
+  },
+  {
+    "bloques": [
+      {"texto":"El gato negro","funcion":"sujeto"},
+      {"texto":"come","funcion":"verbo"},
+      {"texto":"rápido","funcion":"ccm"},
+      {"texto":"en la cocina","funcion":"ccl"}
+    ],
+    "preguntas":[
+      {"pregunta":"¿Cuál es el SUJETO?","funcionObjetivo":"sujeto","pista":"¿Quién come?"},
+      {"pregunta":"¿Cuál es el VERBO?","funcionObjetivo":"verbo","pista":"La acción"},
+      {"pregunta":"¿Cuál es el CCM?","funcionObjetivo":"ccm","pista":"Indica CÓMO"},
+      {"pregunta":"¿Cuál es el CCL?","funcionObjetivo":"ccl","pista":"Indica DÓNDE"}
+    ]
+  },
+  {
+    "bloques": [
+      {"texto":"Mi madre","funcion":"sujeto"},
+      {"texto":"cocina","funcion":"verbo"},
+      {"texto":"pasta","funcion":"cd"},
+      {"texto":"para la cena","funcion":"ccfinalidad"}
+    ],
+    "preguntas":[
+      {"pregunta":"¿Cuál es el SUJETO?","funcionObjetivo":"sujeto","pista":"¿Quién cocina?"},
+      {"pregunta":"¿Cuál es el VERBO?","funcionObjetivo":"verbo","pista":"La acción"},
+      {"pregunta":"¿Cuál es el CD?","funcionObjetivo":"cd","pista":"¿Qué cocina?"},
+      {"pregunta":"¿Cuál es el CC de finalidad?","funcionObjetivo":"ccfinalidad","pista":"¿Para qué cocina?"}
+    ]
+  },
+  {
+    "bloques": [
+      {"texto":"El sol","funcion":"sujeto"},
+      {"texto":"brilla","funcion":"verbo"},
+      {"texto":"intensamente","funcion":"ccm"},
+      {"texto":"en verano","funcion":"cct"}
+    ],
+    "preguntas":[
+      {"pregunta":"¿Cuál es el SUJETO?","funcionObjetivo":"sujeto","pista":"¿Qué brilla?"},
+      {"pregunta":"¿Cuál es el VERBO?","funcionObjetivo":"verbo","pista":"La acción"},
+      {"pregunta":"¿Cuál es el CCM?","funcionObjetivo":"ccm","pista":"Indica CÓMO brilla"},
+      {"pregunta":"¿Cuál es el CCT?","funcionObjetivo":"cct","pista":"Indica CUÁNDO brilla"}
+    ]
+  },
+  {
+    "bloques": [
+      {"texto":"Los pájaros","funcion":"sujeto"},
+      {"texto":"cantan","funcion":"verbo"},
+      {"texto":"melodías","funcion":"cd"},
+      {"texto":"al amanecer","funcion":"cct"}
+    ],
+    "preguntas":[
+      {"pregunta":"¿Cuál es el SUJETO?","funcionObjetivo":"sujeto","pista":"¿Quiénes cantan?"},
+      {"pregunta":"¿Cuál es el VERBO?","funcionObjetivo":"verbo","pista":"La acción"},
+      {"pregunta":"¿Cuál es el CD?","funcionObjetivo":"cd","pista":"¿Qué cantan?"},
+      {"pregunta":"¿Cuál es el CCT?","funcionObjetivo":"cct","pista":"Indica CUÁNDO cantan"}
+    ]
+  },
+  {
+    "bloques": [
+      {"texto":"Tú","funcion":"sujeto"},
+      {"texto":"escribes","funcion":"verbo"},
+      {"texto":"cartas","funcion":"cd"},
+      {"texto":"a tus amigos","funcion":"ci"}
+    ],
+    "preguntas":[
+      {"pregunta":"¿Cuál es el SUJETO?","funcionObjetivo":"sujeto","pista":"¿Quién escribe?"},
+      {"pregunta":"¿Cuál es el VERBO?","funcionObjetivo":"verbo","pista":"La acción"},
+      {"pregunta":"¿Cuál es el CD?","funcionObjetivo":"cd","pista":"¿Qué escribes?"},
+      {"pregunta":"¿Cuál es el CI?","funcionObjetivo":"ci","pista":"¿A quién escribes?"}
+    ]
+  },
+  {
+    "bloques": [
+      {"texto":"Llueve","funcion":"verbo"},
+      {"texto":"mucho","funcion":"cccantidad"},
+      {"texto":"en abril","funcion":"cct"}
+    ],
+    "preguntas":[
+      {"pregunta":"¿Qué tipo de oración es?","funcionObjetivo":"impersonal","pista":"Verbos meteorológicos"},
+      {"pregunta":"¿Cuál es el VERBO?","funcionObjetivo":"verbo","pista":"La acción meteorológica"},
+      {"pregunta":"¿Qué función cumple 'mucho'?","funcionObjetivo":"cccantidad","pista":"Indica cantidad"},
+      {"pregunta":"¿Cuál es el CCT?","funcionObjetivo":"cct","pista":"Indica CUÁNDO llueve"}
+    ]
+  }
+]
